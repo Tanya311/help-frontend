@@ -23,20 +23,24 @@
 * [Очередной гайд по HTML-элементам, которые можно использовать в каждом проекте](https://habr.com/en/post/546994/)
 
 
-###CSS
+### CSS
 * [caniuse](https://caniuse.com/)
 * [Онлайн компилятор css](https://beautifytools.com/scss-compiler.php)
+* [Методология БЭМ](https://ru.bem.info/methodology/)
+* [Статья по БЭМ](https://habr.com/ru/company/yandex/blog/276035/)
+* [Как работать с CSS-препроцессорами и БЭМ](https://nicothin.pro/idiomatic-pre-CSS/)
 
-###JavaScript
+
+### JavaScript
 * [Vanilla JavaScript Code Snippets](https://www.smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/)
 
 
-###Примеры реализаций частоиспользуемых компонентов
+### Примеры реализаций частоиспользуемых компонентов
 * [Index of ARIA Design Pattern Examples. Примеры реализации элементов и компонентов](https://www.w3.org/TR/wai-aria-practices-1.1/examples/)
 * [Best practices for carousels](https://web.dev/carousel-best-practices/)
 
 
-###VUE и экосистема
+### VUE и экосистема
 * [Документация на русском VUE](https://ru.vuejs.org/)
 * [Документация на русском VUEX](https://vuex.vuejs.org/ru/)
 * [Документация на русском Vue Router](https://router.vuejs.org/ru/)
@@ -44,7 +48,7 @@
 * [Плагины для Vue](https://github.com/vuejs/awesome-vue)
 
 
-###VUE Видео
+### VUE Видео
 * [Быстрый курс за 50 минут. Владлен Минин](https://www.youtube.com/watch?v=OlnwgS-gk8Y)
 * [Пишем калькулятор на Vue.js. Лукьянов Артём](https://www.youtube.com/watch?v=AUWlcEy81_4)
 * [Владлен Минин. Курс по VUE](https://www.youtube.com/watch?v=NQ2i5cZ87ug&list=RDCMUCg8ss4xW9jASrqWGP30jXiw&index=7)
