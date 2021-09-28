@@ -38,7 +38,10 @@
 ### Примеры реализаций частоиспользуемых компонентов
 * [Index of ARIA Design Pattern Examples. Примеры реализации элементов и компонентов](https://www.w3.org/TR/wai-aria-practices-1.1/examples/)
 * [Best practices for carousels](https://web.dev/carousel-best-practices/)
+* [Подборка классных табов](https://tympanus.net/Development/TabStylesInspiration/)
 
+### Полезные плагины
+* [Плагин для позиционирования попапов и тултипов](https://popper.js.org/)
 
 ### VUE и экосистема
 * [Документация на русском VUE](https://ru.vuejs.org/)
