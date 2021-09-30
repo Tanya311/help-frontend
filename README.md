@@ -52,7 +52,7 @@
 ### Примеры реализаций частоиспользуемых компонентов
 * [Index of ARIA Design Pattern Examples. Примеры реализации элементов и компонентов](https://www.w3.org/TR/wai-aria-practices-1.1/examples/)
 * [Best practices for carousels](https://web.dev/carousel-best-practices/)
-* [Переход от сплошного текста к вырезанному при скролле](https://tympanus.net/Development/TabStylesInspiration/)
+* [Варианты реализации табов](https://tympanus.net/Development/TabStylesInspiration/)
 
 
 ### Полезные плагины
