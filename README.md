@@ -29,19 +29,40 @@
 * [Методология БЭМ](https://ru.bem.info/methodology/)
 * [Статья по БЭМ](https://habr.com/ru/company/yandex/blog/276035/)
 * [Как работать с CSS-препроцессорами и БЭМ](https://nicothin.pro/idiomatic-pre-CSS/)
+* [Эстетичный Sass часть 1: архитектура и организация](http://prgssr.ru/development/estetichnyj-sass-chast-1-arhitektura-i-organizaciya.html)
+* [Эстетичный Sass часть 2: цвета и палитры](http://prgssr.ru/development/estetichnyj-sass-chast-2-cveta-i-palitry.html#heading-section)
+* [Эстетичный Sass часть 3: типографика и вертикальный ритм](http://prgssr.ru/development/estetichnyj-sass-chast-3-tipografika-i-vertikalnyj-ritm.html)
 
 
 ### JavaScript
+* [Современный учебник JavaScript](https://learn.javascript.ru/)
+* [Порядок выполнения скриптов в HTML. Тег script и атрибуты async, defer, module, nomodule и src](https://tproger.ru/translations/script-execution-order/)
+* [Используй Async/Await в JavaScript, как профессионал](https://nuancesprog.ru/p/13788/)
+
+### Работа с DOM
+* [Шпаргалка по JS-методам для работы с DOM](https://habr.com/ru/company/macloud/blog/557422/)
+
+
+### JavaScript и CSS готовые примеры и шаблоны
 * [Vanilla JavaScript Code Snippets](https://www.smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/)
+* [Изменение цвета шрифта с помощью CSS в зависимости от фона](https://www.cat-in-web.ru/switch-font-color/)
+* [https://www.cat-in-web.ru/from-solid-to-knockout-text-on-scroll/](https://www.cat-in-web.ru/from-solid-to-knockout-text-on-scroll/)
 
 
 ### Примеры реализаций частоиспользуемых компонентов
 * [Index of ARIA Design Pattern Examples. Примеры реализации элементов и компонентов](https://www.w3.org/TR/wai-aria-practices-1.1/examples/)
 * [Best practices for carousels](https://web.dev/carousel-best-practices/)
-* [Подборка классных табов](https://tympanus.net/Development/TabStylesInspiration/)
+* [Переход от сплошного текста к вырезанному при скролле](https://tympanus.net/Development/TabStylesInspiration/)
+
 
 ### Полезные плагины
+* [Range Slider](https://refreshless.com/nouislider/)
+* [Селект](https://github.com/ivaynberg/select2)
+* [momentjs](https://momentjs.com/)
 * [Плагин для позиционирования попапов и тултипов](https://popper.js.org/)
+* [CSS Анимации](https://jackonthe.net/css3animateit/)
+* [Animate.css](https://animate.style/)
+
 
 ### VUE и экосистема
 * [Документация на русском VUE](https://ru.vuejs.org/)
@@ -49,9 +70,15 @@
 * [Документация на русском Vue Router](https://router.vuejs.org/ru/)
 * [Style-guide](https://vuejs.org/v2/style-guide/#Priority-C-Rules-Recommended-Minimizing-Arbitrary-Choices-and-Cognitive-Overhead)
 * [Плагины для Vue](https://github.com/vuejs/awesome-vue)
+* [Полезные инструменты в веб-разработке на Vue.js](https://www.smashingmagazine.com/2020/10/useful-tools-vue-javascript-web-development/)
 
 
 ### VUE Видео
 * [Быстрый курс за 50 минут. Владлен Минин](https://www.youtube.com/watch?v=OlnwgS-gk8Y)
 * [Пишем калькулятор на Vue.js. Лукьянов Артём](https://www.youtube.com/watch?v=AUWlcEy81_4)
 * [Владлен Минин. Курс по VUE](https://www.youtube.com/watch?v=NQ2i5cZ87ug&list=RDCMUCg8ss4xW9jASrqWGP30jXiw&index=7)
+
+
+### Верстка писем
+* [Сервис для отправки писем](https://sendhtmail.ru/)
+* [Can I Email](https://www.caniemail.com/)
