@@ -16,6 +16,8 @@
 ### HTML
 * [Спецификация](https://html.spec.whatwg.org/multipage/)
 * [caninclude - сайт для проверки правильной вложенности тегов](https://caninclude.glitch.me/)
+* [Что такое семантическая вёрстка и зачем она нужна](https://htmlacademy.ru/blog/boost/frontend/semantics)
+* [Переодическая таблица HTML](https://websitesetup.org/html5-periodical-table/)
 * [для тех, кто сомневается какой тег использовать](http://html5doctor.com)
 * [статья про выбор `<div>`, `<section>` или `<article>` (eng)](http://bitsofco.de/2015/sectioning-content-in-html5)
 * [лекция Макеева](http://pepelsbey.net/pres/sense-coding/)
@@ -39,23 +41,23 @@
 * [Порядок выполнения скриптов в HTML. Тег script и атрибуты async, defer, module, nomodule и src](https://tproger.ru/translations/script-execution-order/)
 * [Используй Async/Await в JavaScript, как профессионал](https://nuancesprog.ru/p/13788/)
 
-### Работа с DOM
+## Работа с DOM
 * [Шпаргалка по JS-методам для работы с DOM](https://habr.com/ru/company/macloud/blog/557422/)
 
 
-### JavaScript и CSS готовые примеры и шаблоны
+## JavaScript и CSS готовые примеры и шаблоны
 * [Vanilla JavaScript Code Snippets](https://www.smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/)
 * [Изменение цвета шрифта с помощью CSS в зависимости от фона](https://www.cat-in-web.ru/switch-font-color/)
 * [https://www.cat-in-web.ru/from-solid-to-knockout-text-on-scroll/](https://www.cat-in-web.ru/from-solid-to-knockout-text-on-scroll/)
 
 
-### Примеры реализаций частоиспользуемых компонентов
+## Примеры реализаций частоиспользуемых компонентов
 * [Index of ARIA Design Pattern Examples. Примеры реализации элементов и компонентов](https://www.w3.org/TR/wai-aria-practices-1.1/examples/)
 * [Best practices for carousels](https://web.dev/carousel-best-practices/)
 * [Варианты реализации табов](https://tympanus.net/Development/TabStylesInspiration/)
 
 
-### Полезные плагины
+## Полезные плагины
 * [Range Slider](https://refreshless.com/nouislider/)
 * [Селект](https://github.com/ivaynberg/select2)
 * [momentjs](https://momentjs.com/)
@@ -63,8 +65,8 @@
 * [CSS Анимации](https://jackonthe.net/css3animateit/)
 * [Animate.css](https://animate.style/)
 
-
-### VUE и экосистема
+### VUE
+## VUE и экосистема
 * [Документация на русском VUE](https://ru.vuejs.org/)
 * [Документация на русском VUEX](https://vuex.vuejs.org/ru/)
 * [Документация на русском Vue Router](https://router.vuejs.org/ru/)
@@ -73,12 +75,13 @@
 * [Полезные инструменты в веб-разработке на Vue.js](https://www.smashingmagazine.com/2020/10/useful-tools-vue-javascript-web-development/)
 
 
-### VUE Видео
+## VUE Видео
 * [Быстрый курс за 50 минут. Владлен Минин](https://www.youtube.com/watch?v=OlnwgS-gk8Y)
 * [Пишем калькулятор на Vue.js. Лукьянов Артём](https://www.youtube.com/watch?v=AUWlcEy81_4)
 * [Владлен Минин. Курс по VUE](https://www.youtube.com/watch?v=NQ2i5cZ87ug&list=RDCMUCg8ss4xW9jASrqWGP30jXiw&index=7)
 
 
-### Верстка писем
+## Верстка писем
 * [Сервис для отправки писем](https://sendhtmail.ru/)
 * [Can I Email](https://www.caniemail.com/)
+
