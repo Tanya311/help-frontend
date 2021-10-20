@@ -37,6 +37,9 @@
 * [Эстетичный Sass часть 3: типографика и вертикальный ритм](http://prgssr.ru/development/estetichnyj-sass-chast-3-tipografika-i-vertikalnyj-ritm.html)
 
 
+### Flex
+* [Браузерные баги FLEX и их решения](https://github.com/philipwalton/flexbugs)
+
 ## JavaScript
 * [Современный учебник JavaScript](https://learn.javascript.ru/)
 * [Порядок выполнения скриптов в HTML. Тег script и атрибуты async, defer, module, nomodule и src](https://tproger.ru/translations/script-execution-order/)
@@ -58,10 +61,11 @@
 * [Что ты такое, Event Loop? Или как устроен цикл событий в браузере Chrome](https://habr.com/ru/post/461401/)
 
 
-### JavaScript и CSS готовые примеры и шаблоны
+### JavaScript и CSS примеры, статьи и готовые шаблоны
 * [Vanilla JavaScript Code Snippets](https://www.smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/)
 * [Изменение цвета шрифта с помощью CSS в зависимости от фона](https://www.cat-in-web.ru/switch-font-color/)
 * [https://www.cat-in-web.ru/from-solid-to-knockout-text-on-scroll/](https://www.cat-in-web.ru/from-solid-to-knockout-text-on-scroll/)
+* [Валютные расчеты в JavaScript](https://www.honeybadger.io/blog/currency-money-calculations-in-javascript/)
 
 
 ### Примеры реализаций частоиспользуемых компонентов
