@@ -72,6 +72,7 @@
 * [Index of ARIA Design Pattern Examples. Примеры реализации элементов и компонентов](https://www.w3.org/TR/wai-aria-practices-1.1/examples/)
 * [Best practices for carousels](https://web.dev/carousel-best-practices/)
 * [Варианты реализации табов](https://tympanus.net/Development/TabStylesInspiration/)
+* [Идеи и примеры оформления различных элементов интерфейса](https://html5book.ru/category/uroki/)
 
 
 ### Полезные плагины
