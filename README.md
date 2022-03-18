@@ -23,6 +23,7 @@
 * [лекция Макеева](http://pepelsbey.net/pres/sense-coding/)
 * [презентация к лекции Макеева](http://pepelsbey.net/2011/07/sense-coding/)
 * [Очередной гайд по HTML-элементам, которые можно использовать в каждом проекте](https://habr.com/en/post/546994/)
+* [Как правильно верстать в 2022 году. Часть 1](https://habr.com/ru/post/655009/)
 
 
 ## CSS
@@ -43,6 +44,8 @@
 ## JavaScript
 * [Современный учебник JavaScript](https://learn.javascript.ru/)
 * [Порядок выполнения скриптов в HTML. Тег script и атрибуты async, defer, module, nomodule и src](https://tproger.ru/translations/script-execution-order/)
+* [Продвинутый взгляд на рекурсию](https://nuancesprog.ru/p/9668/)
+* [Обзор реализации шаблонов ООП в JavaScript(англ.)](https://indepth.dev/posts/1495/js-design-patterns)
 
 
 ### Работа с DOM
@@ -59,6 +62,7 @@
 * [Объяснение работы EventLoop в JavaScript](https://medium.com/devschacht/javascript-eventloop-explained-f2dcf84e36ee)
 * [Событийный цикл: микрозадачи и макрозадачи](https://learn.javascript.ru/event-loop)
 * [Что ты такое, Event Loop? Или как устроен цикл событий в браузере Chrome](https://habr.com/ru/post/461401/)
+* [Асинхронное программирование с промисами JavaScript](https://nuancesprog.ru/p/14711/)
 
 
 ### JavaScript и CSS примеры, статьи и готовые шаблоны
@@ -66,6 +70,11 @@
 * [Изменение цвета шрифта с помощью CSS в зависимости от фона](https://www.cat-in-web.ru/switch-font-color/)
 * [https://www.cat-in-web.ru/from-solid-to-knockout-text-on-scroll/](https://www.cat-in-web.ru/from-solid-to-knockout-text-on-scroll/)
 * [Валютные расчеты в JavaScript](https://www.honeybadger.io/blog/currency-money-calculations-in-javascript/)
+* [Идеи и примеры оформления различных элементов интерфейса](https://html5book.ru/category/uroki/)
+* [Пример измнение 3d трансформации при ховере](https://codepen.io/Jayasree_0708/pen/bGwqaXK)
+* [27 важных однострочных функций JavaScript, используемых разработчиками ежедневно](https://nuancesprog.ru/p/15469/)
+* [11 уникальных однострочников JavaScript, достойных восхищения](https://nuancesprog.ru/p/14356/)
+* [9 инструментов CSS, которые пригодятся в 2022 году](https://nuancesprog.ru/p/15045/)
 
 
 ### Примеры реализаций частоиспользуемых компонентов
@@ -107,3 +116,13 @@
 ## IDE
 * [Справочник EMMET сокращений для ускорения верстки](https://webdesign-master.ru/blog/html-css/2.html)
 
+
+## Мобильная разработка
+* [Как тестировать на телефонах и эмуляторах](https://www.youtube.com/watch?v=71qnSzSjCyY)
+* [Remote debug Android devices](https://developer.chrome.com/docs/devtools/remote-debugging/)
+
+## Advanced
+* [Создание компонентной дизайн-системы UI](https://nuancesprog.ru/p/15065/)
+* [Дизайн системы Netflix](https://nuancesprog.ru/p/14556/)
+* [Как креативно оформить профиль на GitHub, чтобы он привлекал внимание](https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17)
+* [50 советов, которые помогут улучшить код JavaScript](https://nuancesprog.ru/p/12743/)
