@@ -103,3 +103,7 @@
 * [Сервис для отправки писем](https://sendhtmail.ru/)
 * [Can I Email](https://www.caniemail.com/)
 
+
+## IDE
+* [Справочник EMMET сокращений для ускорения верстки](https://webdesign-master.ru/blog/html-css/2.html)
+
