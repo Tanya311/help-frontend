@@ -108,6 +108,12 @@
 * [Владлен Минин. Курс по VUE](https://www.youtube.com/watch?v=NQ2i5cZ87ug&list=RDCMUCg8ss4xW9jASrqWGP30jXiw&index=7)
 
 
+## TypeScript
+* [TypeScript Documentation](https://www.typescriptlang.org/docs/)
+* [Перевод официальной документации Typescript на русский.](http://typescript-lang.ru/docs/)
+* [TypeScript. Обзор](https://yandex.ru/video/preview/?text=typeScript&path=yandex_search&parent-reqid=1647696601971599-12281570771460077215-sas2-0798-sas-l7-balancer-8080-BAL-9682&from_type=vast&filmId=5148804559075799925)
+
+
 ## Верстка писем
 * [Сервис для отправки писем](https://sendhtmail.ru/)
 * [Can I Email](https://www.caniemail.com/)
@@ -126,3 +132,6 @@
 * [Дизайн системы Netflix](https://nuancesprog.ru/p/14556/)
 * [Как креативно оформить профиль на GitHub, чтобы он привлекал внимание](https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17)
 * [50 советов, которые помогут улучшить код JavaScript](https://nuancesprog.ru/p/12743/)
+
+
+## Паттерны и шаблоны
